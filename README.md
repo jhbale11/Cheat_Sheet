@@ -1,5 +1,5 @@
-# Cheat_Sheet
-Cheat Sheet for Pandas, Statistic Theory, EDA, ...
+# Stats-Pandas-Numpy-etc
+Study Result Repository for Pandas, Statistic Theory, EDA, Numpy,...
 
 ## Pandas Cheat Sheet
 Pandas의 여러 함수 및 기능을 실습하고 정리한 파일입니다.
